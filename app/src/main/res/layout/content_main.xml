@@ -84,8 +84,5 @@
         android:layout_below="@id/confirmArea"
         android:background="@color/Light_Green"
         android:text="@string/submit" />
-<TextView
-    android:layout_width="wrap_content"
-    android:layout_height="wrap_content" />
 
 </RelativeLayout>
