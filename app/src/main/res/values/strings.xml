@@ -9,5 +9,5 @@
     <string name="pass">Password:</string>
     <string name="promptPass">Please enter your password</string>
     <string name="promptConfirm">Please Confirm you password</string>
-    <string name="confirdddm">Confirm Password:</string>
+    <string name="confirm">Confirm Password:</string>
 </resources>
